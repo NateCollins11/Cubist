@@ -8,12 +8,20 @@
   <meta name="description" content="The HTML5 Herald">
   <meta name="author" content="SitePoint">
 
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
+  <link rel="stylesheet" href="style.css">
 
 </head>
 
 <body>
-    <h1>Hello World</h1>
-  <script src="js/scripts.js"></script>
+    <div class="container">
+        <div id="game">
+            <canvas id="canvas" width="900px" height="500px"></canvas>
+            <div style="display:none">
+                <img id="player"
+                    src="./images/player.png">
+            </div>
+        </div>
+    </div>
+  <script src="./script.js"></script>
 </body>
 </html>
