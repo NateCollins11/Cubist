@@ -1,2 +1,2 @@
 # Cubist
-Basic randomly generated art program. written in JS
+(2020) Basic randomly generated art program. written in JS
