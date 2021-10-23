@@ -1,0 +1,11 @@
+#game {
+  text-align: center;
+  background-color: rgb(216, 170, 42);
+  padding: 8px;
+  width: min-content;
+}
+#canvas {
+  background-color: rgb(236, 235, 229);
+  height: 500px;
+  width: 900px;
+}
